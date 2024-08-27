@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url(téléchargement.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-size: cover;
+}
